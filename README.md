@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mahdieh, a senior React-Native Developer who is always up for a new challenge. For the past four years I've been delving into the development of modern apps and new technologies, And had a keen focus on Blockchain and GPT-3 recently. You can find me online on Twitter, Youtube, and StackOverflow, where I keep a portfolio of my work. 
+I'm Mahdieh, an experienced React Native developer with a proven track record of delivering high-quality mobile applications. I'm skilled in implementing complex functionalities. I'm a strong collaborator with excellent problem-solving abilities and am passionate about staying current with industry trends and finding innovative solutions to challenges.
 
 Get in touch and let's make something amazing! ✨
 
