@@ -7,7 +7,7 @@ AI-assisted engineering workflow to ship faster with high precision (prompting, 
 
 Get in touch and let's make something amazing! ✨
 
-<img src="[https://user-images.githubusercontent.com/38426652/212898778-e356bf25-4106-4045-bb09-5460b87030e3.png](https://th.bing.com/th/id/R.30c453b7f5fbdb09ea0cb42a5dc7a6e5?rik=%2f%2b8rK4sbAWRPyA&pid=ImgRaw&r=0)" alt="linkedin-icon" width="24" /> LinkedIn: [mshvnd](https://www.linkedin.com/in/mshvnd/)
+<img src="https://user-images.githubusercontent.com/38426652/212898778-e356bf25-4106-4045-bb09-5460b87030e3.png" alt="linkedin-icon" width="24" /> LinkedIn: [mshvnd](https://www.linkedin.com/in/mshvnd/)
 
 <img src="https://user-images.githubusercontent.com/38426652/212897157-ad96f5df-62ab-447c-975d-4c9763ed7f7c.png" alt="stackoverflow-icon" width="24" /> StackOverFlow: [mahdieh-shavandi](https://stackoverflow.com/users/8898138/mahdieh-shavandi)
 
