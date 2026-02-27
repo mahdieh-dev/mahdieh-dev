@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-7+ years building production React Native apps for iOS and Android (TypeScript), including e-commerce, social and fintech products.
-Strong focus on performance, stability and quality: profiling, memory-leak prevention, crash monitoring (Sentry), analytics and automated testing (Jest/Detox).
-Known for fast, high-quality delivery and clear ownership from feature design to release; effective cross-functional collaboration with product, design and backend.
-AI-assisted engineering workflow to ship faster with high precision (prompting, code generation, refactors, test scaffolding, documentation), while keeping code quality standards.
+7+ years building production React Native apps for iOS and Android (TypeScript), including e-commerce, social and fintech products. 
+Strong focus on performance, stability and quality: profiling, memory-leak prevention, crash monitoring (Sentry), analytics and automated testing. 
+Known for fast, high-quality delivery and clear ownership from feature design to release; effective cross-functional collaboration with product, design and backend. 
+Leveraging AI tools to ship faster with high precision (prompting, code generation, refactors, test scaffolding, documentation), while keeping code quality standards.
 
 Get in touch and let's make something amazing! ✨
 
