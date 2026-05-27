@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-7+ years building production React Native apps for iOS and Android (TypeScript), including e-commerce, social and fintech products. 
-Strong focus on performance, stability and quality: profiling, memory-leak prevention, crash monitoring (Sentry), analytics and automated testing. 
-Known for fast, high-quality delivery and clear ownership from feature design to release; effective cross-functional collaboration with product, design and backend. 
-Leveraging AI tools to ship faster with high precision (prompting, code generation, refactors, test scaffolding, documentation), while keeping code quality standards.
+I'm a React Native and full-stack developer who enjoys building apps that feel simple, fast, and reliable.
 
-Get in touch and let's make something amazing! ✨
+For the past 7+ years, I’ve been building production mobile apps for iOS and Android using React Native and TypeScript, across e-commerce, social, and fintech products.
 
-<img src="https://th.bing.com/th/id/R.30c453b7f5fbdb09ea0cb42a5dc7a6e5?rik=%2f%2b8rK4sbAWRPyA&pid=ImgRaw&r=0" alt="linkedin-icon" width="24" /> LinkedIn: [mshvnd](https://www.linkedin.com/in/mshvnd/)
+I care about more than just making features work. I care about how they feel, how they perform, how stable they are, and how easy the codebase is to maintain and grow over time.
 
-<img src="https://user-images.githubusercontent.com/38426652/212897157-ad96f5df-62ab-447c-975d-4c9763ed7f7c.png" alt="stackoverflow-icon" width="24" /> StackOverFlow: [mahdieh-shavandi](https://stackoverflow.com/users/8898138/mahdieh-shavandi)
+My work usually sits between engineering, product, and user experience — turning ideas into shipped software with clean architecture, strong ownership, and attention to detail.
 
-<img src="https://user-images.githubusercontent.com/38426652/212897483-a699e989-c2b6-4238-903b-4aa78fac53e5.png" alt="email-icon" width="24" /> Email: [mahdiehshavandi@ymail.com](mailto:mahdiehshavandi@ymail.com)
+### What I focus on
 
-<img src="https://user-images.githubusercontent.com/38426652/212899828-ae702e98-2075-4946-a0bf-a7a2701962f4.png" alt="certificates-icon" width="24" /> You can check my NFT certificates here: [Mahdieh_dev Opensea profile](https://opensea.io/Mahdieh_dev)
+- React Native & TypeScript
+- Mobile app architecture
+- Performance, stability, and crash monitoring
+- Clean, maintainable code
+- Product-focused engineering
+- AI tools for faster, better development
+
+### Featured personal project
+
+I recently built a beauty-focused product experience as a personal project — from idea and UI to development and deployment.
+
+✨ [View Prime Beauty](https://prime-beauty-two.vercel.app/)
+
+Let’s make something useful.
+
+### Ways to get in touch
+
+- LinkedIn: [mshvnd](https://www.linkedin.com/in/mshvnd/)
+- Stack Overflow: [mahdieh-shavandi](https://stackoverflow.com/users/8898138/mahdieh-shavandi)
+- Email: [mahdiehshavandi@ymail.com](mailto:mahdiehshavandi@ymail.com)
+- Certificates: [Mahdieh_dev OpenSea profile](https://opensea.io/Mahdieh_dev)
