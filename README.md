@@ -12,6 +12,7 @@ My work usually sits between engineering, product, and user experience — turni
 
 - React Native & TypeScript
 - Mobile app architecture
+- FullStack development with MERN
 - Performance, stability, and crash monitoring
 - Clean, maintainable code
 - Product-focused engineering
