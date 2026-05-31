@@ -22,7 +22,7 @@ My work usually sits between engineering, product, and user experience — turni
 
 I recently built a beauty-focused product experience as a personal project — from idea and UI to development and deployment.
 
-✨ [View Prime Beauty](https://prime-beauty-two.vercel.app/)
+✨ [View Prime Beauty](https://prime-beauty-murex.vercel.app/)
 
 Let’s make something useful.
 
