@@ -21,7 +21,7 @@ My work usually sits between engineering, product, and user experience — turni
 ### Featured personal project
 
 I recently built a beauty-focused product experience as a personal project — from idea and UI to development and deployment.
-
+✨ [View Narin Saffron - Rebranding for Gulf market](https://narin-saffron.vercel.app/)
 ✨ [View Prime Beauty](https://prime-beauty-murex.vercel.app/)
 
 Let’s make something useful.
